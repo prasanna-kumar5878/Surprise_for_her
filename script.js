@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // Target Date Setup (Midnight July 25, 2026)
-const TARGET_DATE = new Date("July 11, 2026 00:00:00").getTime();
+const TARGET_DATE = new Date("July 25, 2026 00:00:00").getTime();
 const START_DATE = new Date("March 01, 2026 00:00:00").getTime();
 
 let ambientCtx, celebrationCtx, aCanvas, cCanvas;
